@@ -43,7 +43,7 @@ Apuntes de sintaxis, tablas de operadores, referencias rápidas y enlaces extern
 
 ## Convenciones utilizadas
 
-- **Pseudocódigo:** sigue la sintaxis de cátedra (`<--` para asignación, `read()`, `write()`, `if/else`, `while`, `do/while`).
+- **Pseudocódigo:** sigue la sintaxis de cátedra (`<-` para asignación, `read()`, `write()`, `if/else`, `while`, `do/while`).
 - **Código en C:** soluciones simples y didácticas, evitando técnicas avanzadas que no correspondan al nivel introductorio del curso.
 - Cada ejercicio incluye una breve explicación de la lógica aplicada.
 
