@@ -20,9 +20,6 @@ Este repositorio reúne guías de ejercicios, solucionarios y código de ejemplo
 ### `guias/`
 Documentos con los enunciados de los ejercicios, organizados según el tema de la unidad correspondiente (pseudocódigo, condicionales, ciclos, funciones, etc.). No incluyen solución.
 
-### `ejercicios/`
-Implementaciones de referencia, tanto en pseudocódigo como en C, para practicar y comparar tu propia solución.
-
 ### `soluciones/`
 Solucionarios completos de guías y pruebas de cátedra, con explicación de la lógica utilizada y un apartado de **Hint** para quienes prefieren pensarlo antes de ver la solución completa.
 
