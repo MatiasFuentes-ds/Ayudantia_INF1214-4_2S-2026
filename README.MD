@@ -13,7 +13,6 @@ Este repositorio reúne guías de ejercicios, solucionarios y código de ejemplo
 ```
 .
 ├── guias/         # Enunciados de ejercicios por tema/unidad
-├── ejercicios/     # Código fuente y pseudocódigo trabajado en ayudantía
 ├── soluciones/     # Solucionarios detallados de guías y pruebas
 └── recursos/       # Apuntes, referencias y material complementario
 ```
